@@ -1,5 +1,5 @@
 # Groww-With-Code
-There are four projects/task in java programming language.
+There are four projects in java programming language.
 <br>
 <h3>Project-1 :- Currency Convertor</h3>
 <br>
